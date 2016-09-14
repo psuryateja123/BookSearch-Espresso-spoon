@@ -5,8 +5,10 @@ SearchTest is the class that consists of the method to that has test.
 Run configuration settings:
 
 In the module section,
-*select App Under the test section, 
-*select All in the module Under Specific instrumentation runner select :android.support.test.runner.AndroidJUnitRunner.
 
 
-Commented out the dependencies for the spoon, if uncommented, then test will run across multiple devices and can generate report along with screenshots
+select App Under the test section, 
+select All in the module Under Specific instrumentation runner select :android.support.test.runner.AndroidJUnitRunner.
+
+
+Added spoon plugin, so that it can generate reports after it ran on the devices
