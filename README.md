@@ -1,4 +1,4 @@
-Welcome to the book-finder-app-base-2 wiki! The test for the Book search are written in android espresso. By passing BookListActivity into the activity rule. Incorporate the feature to expand the test as Suite (@Suite.SuiteClasses).
+Welcome to the book-finder-app-base-3 wiki! The test for the Book search are written in android espresso. By passing BookListActivity into the activity rule. Incorporate the feature to expand the test as Suite (@Suite.SuiteClasses).
 
 SearchTest is the class that consists of the method to that has test.
 
