@@ -8,8 +8,8 @@ In the module section,
 
 
 1)select App Under the test section, 
-2)select All in the module 
-3)Under Specific instrumentation runner select :android.support.test.runner.AndroidJUnitRunner.
+<br />2)select All in the module 
+<br />3)Under Specific instrumentation runner select :android.support.test.runner.AndroidJUnitRunner.
 
 
 Added spoon plugin, so that it can generate reports after it ran on the devices
