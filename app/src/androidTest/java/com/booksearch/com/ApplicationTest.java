@@ -30,10 +30,6 @@ import static android.support.test.espresso.matcher.ViewMatchers.withText;
 @Suite.SuiteClasses({SearchTest.class})
 public class ApplicationTest {
 
-
-
-
-
 }
 
 
